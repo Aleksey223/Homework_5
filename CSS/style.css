@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+}
+#pravilo_1 {
+    color: cornflowerblue;
+}
+h3 {
+    color: darkblue;
+}
+.primer_1 {
+    color: chocolate;
+   
+}
+.primer_2 {
+    color: darkorchid;
+    background-color: beige;
+}
+.text {
+    font-style: italic;
+}
+section {
+    background-color: lightgray;
+    width: 50%;
+}
+.cont h4 {
+    color: crimson;
+}
